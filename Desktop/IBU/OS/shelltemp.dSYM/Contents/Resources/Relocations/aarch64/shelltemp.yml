@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/onrushstudio/Desktop/IBU/OS/shelltemp'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _print_prompt, symObjAddr: 0x0, symBinAddr: 0x1000037A4, symSize: 0x84 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _print_prompt, symObjAddr: 0x0, symBinAddr: 0x1000037A4, symSize: 0x84 }
+  - { offsetInCU: 0x74, offset: 0x74, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x84, symBinAddr: 0x100003828, symSize: 0x594 }
+...
